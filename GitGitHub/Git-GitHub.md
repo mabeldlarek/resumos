@@ -1,5 +1,5 @@
 # Introdução ao Git e GitHub     
-Durante o desenvolvimento de projetos os códigos resultantes tendem a sofrer diversas modificações, tornando necessário gerenciá-las, de modo que seja possível realizar eventuais revisões e restaurações.
+Durante o desenvolvimento de projetos, os códigos resultantes tendem a sofrer diversas modificações, tornando necessário gerenciá-las, de modo que seja possível realizar eventuais revisões e restaurações.
 
 Esse gerenciamento é feito através de um sistema de controle de versões, um dos mais populares é o **GIT**.
 
