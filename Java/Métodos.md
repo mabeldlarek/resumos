@@ -13,14 +13,15 @@ Possuem os seguintes elementos:
 
 Que podem ser compreendidos pelas suas iniciais como:
 
-`v`: public, protected ou private (adequada ao contexto)
-`t`: concreto ou abstrato
-`m`: static ou final
-`r`: tipo de retorno ou void
-`n`: nome do método (curtos e descritivos)
-`p`: parametros que pode receber (breves)
-`e`: exceções que pode lançar
+`v`: public, protected ou private (adequada ao contexto)<br>
+`t`: concreto ou abstrato <br>
+`m`: static ou final <br>
+`r`: tipo de retorno ou void <br>
+`n`: nome do método (curtos e descritivos) <br>
+`p`: parametros que pode receber (breves) <br>
+`e`: exceções que pode lançar <br>
 `c`: código que possui ou vazio
+
 
 ---
 
